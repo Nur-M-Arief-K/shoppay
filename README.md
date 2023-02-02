@@ -1,10 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 This is a e-commerce practice project, created mainly with Next.js 
 
 ## Getting Started
 
-First, run the development server:
+First, run ``` npm i ```  to install all the dependenciess
+
+Second, run the development server:
 
 ```bash
 npm run dev
@@ -14,4 +14,4 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then, open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
